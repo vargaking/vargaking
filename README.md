@@ -17,7 +17,7 @@
  - 💬 [Discord](https://discord.gg/Z9tbGQPA)
  - 📷 [Instagram](https://www.instagram.com/gdani___/)
  - 📘 [Facebook](https://www.facebook.com/daniel.gergely.5458)
- - 🏢 I guess I should make a LinkedIn profile...
+ - 🏢 [LinkedIn](https://www.linkedin.com/in/dani-gergely-ba2003223/)
 
 <!--
 **vargaking/vargaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
