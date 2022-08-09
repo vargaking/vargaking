@@ -7,7 +7,7 @@
  Some other tech I'm familiar with:
  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
 🐧 Btw I use Arch. In my free time I like configuring my system (and then reinstalling it), but I am improving day to day and I really like it. Wanna learn some scripting during the summer so I can make much more stuff with Linux.
 
