@@ -3,6 +3,10 @@
  - React (+Native) and Electron
  - Node.js/Express.js, Django and Crow
  - MongoDB, Firebase Realtime-DB and a little bit of SQL
+ 
+ Some other tech I'm familiar with:
+ 
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 🐧 Btw I use Arch. In my free time I like configuring my system (and then reinstalling it), but I am improving day to day and I really like it. Wanna learn some scripting during the summer so I can make much more stuff with Linux.
 
