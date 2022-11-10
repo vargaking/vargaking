@@ -19,7 +19,7 @@
 
 🐧 Btw I use Arch. In my free time I like configuring my system (and then reinstalling it), but I am improving day to day and I really like it. Wanna learn some scripting during the summer so I can make much more stuff with Linux.
 
-🤖 Also I used to program robotzzz and arduinos in the past and I learned using micropython and some C++ libraries during some robotics competition. 
+🤖 Also I used to program robotzzz and arduinos in the past and I learned using micropython and some C++ libraries during robotics competitions. 
 
 😄 Discord is a pretty good platform and I like making it better (for me at least). I made some spambot, adminbot and others, whose are sadly hungarian bots, but I am working on making them open source and multilingual so more people can use them. In the past I learned some Blender to make some CG, you can check out my work on my Instagram profile.
 
