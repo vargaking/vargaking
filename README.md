@@ -23,7 +23,7 @@
 
 😄 Discord is a pretty good platform and I like making it better (for me at least). I made some spambot, adminbot and others, whose are sadly hungarian bots, but I am working on making them open source and multilingual so more people can use them. In the past I learned some Blender to make some CG, you can check out my work on my Instagram profile.
 
-🔭 I am currently working on a project aiming on 3D image generation with AI. 
+🔭 I am currently working on an open-source project called Project Axolotl, which is a very cool blockchain based, decentralized messaging app, you should check it out or better, support the development by your knowledge or by testing our product.
 
 📫 How to reach me:
 
