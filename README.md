@@ -1,6 +1,6 @@
 ### Hi there, I'm Dani!
  ⚡ I'm currently studying in Hungary, at the Fazekas Mihaly High School. I love IT and IT loves me too (I hope at least). In the past I tried to get acquainted with web development so now I can handle some technologies like
- - React (+Native) and Electron
+ - React (+Native), Svelte (+SvelteKit) and Electron
  - Node.js, Express.js and Django
  - MongoDB, Firebase Realtime-DB and a little bit of SQL
  
