@@ -1,29 +1,21 @@
 ### Hi there, I'm Dani!
- ⚡ I'm currently studying in Hungary, at the Fazekas Mihaly High School. I love IT and IT loves me too (I hope at least). In the past I tried to get acquainted with web development so now I can handle some technologies like
+ ⚡ I'm currently studying **Computer Science and Engineering**, at **Eindhoven University of Technology**. I love IT and IT loves me too (I hope at least). In the past I tried to get acquainted with web development so now I can handle some technologies like
  - React (+Native), Svelte (+SvelteKit) and Electron
  - Node.js, Express.js and Django
- - MongoDB, Firebase Realtime-DB and a little bit of SQL
+ - MongoDB and SQL
  
  Some other tech I'm familiar with:
  
-
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> 
 
 
+🐧 Btw I use Arch. In my free time I like configuring my system (and then reinstalling it), but I am improving day to day and I really like it.
 
+🤖 As part of my secondary school's robotic team Fazekas RoboTeam, I learned using micropython and some C++ libraries during robotics competitions and later was involved in coaching younger teams too.
 
+😄 Discord is a pretty good platform and I like making it better (for me at least). I made some spambot, adminbot and others. In the past I learned some Blender to make some CG, you can check out my work on my Instagram profile.
 
-
-
-
-
-🐧 Btw I use Arch. In my free time I like configuring my system (and then reinstalling it), but I am improving day to day and I really like it. Wanna learn some scripting during the summer so I can make much more stuff with Linux.
-
-🤖 As part of my school's robotic team I learned using micropython and some C++ libraries during robotics competitions. 
-
-😄 Discord is a pretty good platform and I like making it better (for me at least). I made some spambot, adminbot and others, whose are sadly hungarian bots, but I am working on making them open source and multilingual so more people can use them. In the past I learned some Blender to make some CG, you can check out my work on my Instagram profile.
-
-🔭 I am currently working on an open-source project called Project Axolotl, which is a very cool blockchain based, decentralized messaging app, you should check it out or better, support the development by your knowledge or by testing our product.
+🔭 I was researching decentralized data sending, as part of Project Axolotl, which was awarded cum laude in the Hungarian Youth Science and Innovation Competition.
 
 📫 How to reach me:
 
