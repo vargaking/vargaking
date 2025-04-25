@@ -1,42 +1,37 @@
-### Hi there, I'm Dani!
- ⚡ I'm currently studying **Computer Science and Engineering**, at **Eindhoven University of Technology**. I love IT and IT loves me too (I hope at least). In the past I tried to get acquainted with web development so now I can handle some technologies like
- - React (+Native), Svelte (+SvelteKit) and Electron
- - Node.js, Express.js and Django
- - MongoDB and SQL
- 
- Some other tech I'm familiar with:
- 
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> 
+### 👋 Hi there, I'm Dani!
 
+I'm currently pursuing a **Bachelor's degree in Computer Science and Engineering** at **Eindhoven University of Technology**. My passion lies in IT, and I enjoy exploring various technologies and frameworks.
 
-🐧 Btw I use Arch. In my free time I like configuring my system (and then reinstalling it), but I am improving day to day and I really like it.
+#### 🧠 Tech Stack
 
-🤖 As part of my secondary school's robotic team Fazekas RoboTeam, I learned using micropython and some C++ libraries during robotics competitions and later was involved in coaching younger teams too.
+**Frontend:**
+- Svelte (+SvelteKit)
+- React (+Next.js)
+- Electron
 
-😄 Discord is a pretty good platform and I like making it better (for me at least). I made some spambot, adminbot and others. In the past I learned some Blender to make some CG, you can check out my work on my Instagram profile.
+**Backend:**
+- FastAPI
+- Django
+- PostgreSQL
 
-🔭 I was researching decentralized data sending, as part of Project Axolotl, which was awarded cum laude in the Hungarian Youth Science and Innovation Competition.
+**Other Tools & Languages:**
+- Sass
+- Tailwind
+- TypeScript
+- C++
+- Java
+- Figma
 
-📫 How to reach me:
+#### 🤖 Projects & Experience
 
- - 💬 [Discord](https://discord.gg/Z9tbGQPA)
- - 📷 [Instagram](https://www.instagram.com/gdani___/)
- - 📘 [Facebook](https://www.facebook.com/daniel.gergely.5458)
- - 🏢 [LinkedIn](https://www.linkedin.com/in/dani-gergely/)
+- **Project Axolotl:** Researched decentralized data transmission, earning a cum laude award at the Hungarian Youth Science and Innovation Competition.
+- **Fazekas RoboTeam:** Participated in robotics competitions using MicroPython and C++ and designed (and then built) robots with Fusion360, later mentoring junior teams.
+- **Discord Bots:** Developed various bots, including spam filters and admin tools, to enhance server management.
+- **Blender Projects:** Explored 3D modeling and animation; some of my work is showcased on my [Instagram](https://www.instagram.com/gdani___/).
+- **Linux Masterrace** I use Arch Linux and enjoy customizing my system (and occasionally reinstalling it).
 
-<!--
-**vargaking/vargaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📫 Let's Connect
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+- 💬 [Discord](https://discord.gg/Z9tbGQPA)
+- 📷 [Instagram](https://www.instagram.com/gdani___/)
+- 🏢 [LinkedIn](https://www.linkedin.com/in/dani-gergely/)
